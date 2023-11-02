@@ -1,0 +1,234 @@
+[
+  {
+    "id": "1",
+    "title": "Mobile",
+    "description": "Mobile typically refers to devices, services, or technologies that are designed for use while on the move, such as smartphones, tablets, and mobile applications.",
+    "price": "20000",
+    "category": "Electronics",
+    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5744/5744500_rd.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Shoes",
+    "description": " shoes are a type of footwear worn on the feet to provide protection, support, and comfort while walking or performing various activities. ",
+    "price": "2000",
+    "category": "Fashion",
+    "imageUrl": "https://media.gq.com/photos/63eba1b2275d2fef78a425c2/16:9/w_1280,c_limit/nike-running-shoes-streakfly-invincible.jpg"
+  },
+  {
+    "id": "3",
+    "title": "shirt",
+    "description": "A shirt is a piece of clothing typically made of fabric that covers the upper body. ",
+    "price": "200",
+    "category": "Fashion",
+    "imageUrl": "https://cdna.lystit.com/photos/2012/05/31/theory-white-twopocket-linen-shirt-white-product-1-3810771-108632754.jpeg"
+  },
+  {
+    "id": "4",
+    "title": "Formal one piece ",
+    "description": "A one-piece dress is a single garment that combines a top and a skirt or bottom into a single piece, typically designed to be worn as a dress. It's a one-stop outfit that doesn't require matching separate pieces like a top and a bottom.",
+    "price": "1500",
+    "category": "Fashion",
+    "imageUrl": "https://ae01.alicdn.com/kf/HTB1MAhrKXXXXXXKXpXXq6xXFXXXy/Grey-Short-Design-2016-Banquet-Formal-Dress-One-Piece-Dress-Prom-Gown-Robe-de-Soiree-Female.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Belt",
+    "description": "A belt is a flexible band or strap typically made of leather or fabric that is worn around the waist to hold clothing in place, cinch garments for a better fit, or as a fashion accessory.",
+    "price": "1500",
+    "category": "Fashion",
+    "imageUrl": "https://i5.walmartimages.com/asr/b3b637c7-ec19-41ce-b24c-d669b2f60b7c_1.5d4d230218d996a61927b233f7cf79de.jpeg"
+  },
+  {
+    "id": "6",
+    "title": "Oven",
+    "description": "An oven is a kitchen appliance used for baking, roasting, or heating food by surrounding it with dry, hot air. It typically has a compartment with adjustable temperature controls for cooking a wide range of dishes.",
+    "price": "15000",
+    "category": "Electronics",
+    "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6192/6192303ld.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Bulb",
+    "description": "A bulb is a device that produces light when an electric current passes through a filament or gas inside a glass or plastic enclosure. It's a common source of artificial lighting in homes and various other settings.",
+    "price": "150",
+    "category": "Electronics",
+    "imageUrl": "https://th.bing.com/th/id/OIP.0dg90QiwX9Tamvmt9fTregHaHa?pid=ImgDet&rs=1"
+  },
+  {
+    "id": "8",
+    "title": "AC",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "30000",
+    "category": "Electronics",
+    "imageUrl": "https://img.etimg.com/photo/msid-98384546,imgsize-26968/Voltas1.4Ton3StarAdjustableInverterSplitAC.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Cooler",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "15000",
+    "category": "Electronics",
+    "imageUrl": "https://th.bing.com/th/id/OIP.qTSIyNiXcNSzqOidpD361QHaGk?pid=ImgDet&rs=1"
+  },
+  {
+    "id": "10",
+    "title": "Cooker",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "3000",
+    "category": "Kitchen ",
+    "imageUrl": "https://c.shld.net/rpx/i/s/i/spin/10129818/prod_16536507912??hei=64&wid=64&qlt=50"
+  },
+  {
+    "id": "11",
+    "title": "Burner",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "3000",
+    "category": "Kitchen ",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu3eh3FTe6xqDE0WRY3Ws5peQpqgKALgxSIQ&usqp=CAU"
+  },
+  {
+    "id": "12",
+    "title": "Pots",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "3000",
+    "category": "Kitchen ",
+    "imageUrl": "https://th.bing.com/th/id/OIP.B7Gq_aAR4ehg9TshoWh3uQHaHa?pid=ImgDet&rs=1"
+  },
+  {
+    "id": "13",
+    "title": "Bottle",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "1000",
+    "category": "Kitchen ",
+    "imageUrl": "https://www.wizekart.com/5898-large_default/milton-bottle-thermosteel-stainless-steel-duo-dlx-1800ml-water-bottle-with-jacket-24-hours-hot-or-cold.jpg"
+  },
+  {
+    "id": "13",
+    "title": "Chopper",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "1000",
+    "category": "Kitchen ",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81s0S1OsutL._AC_SL1500_.jpg"
+  },
+  {
+    "id": "14",
+    "title": "Chair",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "1000",
+    "category": "Kitchen ",
+    "imageUrl": "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/i/ci-360-bk-gg.jpg"
+  },
+  {
+    "id": "15",
+    "title": "Gaming Chair",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "15000",
+    "category": "Furniture",
+    "imageUrl": "https://i5.walmartimages.com/asr/ccb3fc47-d8a7-4b5e-a81b-5ff08dd8fb3b_3.88466e1425253d3089ca091efa77ae5a.jpeg"
+  },
+  {
+    "id": "16",
+    "title": "Dining Table",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "15000",
+    "category": "Furniture",
+    "imageUrl": "https://www.homesdirect365.co.uk/images/foundry-dining-table-p53150-68273_zoom.jpg"
+  },
+  {
+    "id": "17",
+    "title": "Table",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "5000",
+    "category": "Furniture",
+    "imageUrl": "https://images.furnituredealer.net/img/products/11th_hour_furniture/color/hayden%20way_41-ot1010-b1.jpg"
+  },
+  {
+    "id": "18",
+    "title": "Protein ",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "5000",
+    "category": "Health",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/6181zZTNCYL._SX679_.jpg"
+  },
+  {
+    "id": "19",
+    "title": "Protein bm",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "8000",
+    "category": "Health",
+    "imageUrl": "https://onemg.gumlet.io/image/upload/l_watermark_346,w_690,h_700/a_ignore,w_690,h_700,c_pad,q_auto,f_auto/v1600663505/cropped/nr0bkiprzhh81mt2ov6e.jpg"
+  },
+  {
+    "id": "20",
+    "title": "Aswagandha",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "800",
+    "category": "Health",
+    "imageUrl": "https://th.bing.com/th/id/OIP.YwxvJEfZSJHjRpqMSGOXXwHaHa?pid=ImgDet&rs=1"
+  },
+  {
+    "id": "21",
+    "title": "Complan",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "800",
+    "category": "Health",
+    "imageUrl": "https://th.bing.com/th/id/OIP.rbBBuiHoTHkrPXCTWJgTlAHaJc?pid=ImgDet&rs=1"
+  },
+  {
+    "id": "22",
+    "title": "Poetry Book",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "800",
+    "category": "Books",
+    "imageUrl": "https://th.bing.com/th/id/OIP.HLH-yOejVdN5XYAv6jV97QHaI1?pid=ImgDet&rs=1"
+  },
+  {
+    "id": "23",
+    "title": "Fiction Book",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "800",
+    "category": "Books",
+    "imageUrl": "https://specials-images.forbesimg.com/imageserve/5d3b0c39f1176b000897b93b/960x0.jpg?fit=scale"
+  },
+  {
+    "id": "24",
+    "title": "Sci-Fiction Book",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "599",
+    "category": "Books",
+    "imageUrl": "https://www.shortlist.com/media/images/2019/05/40-coolest-sci-fi-book-covers-3-1556673620-CHAr-column-width-inline.jpg"
+  },
+  {
+    "id": "25",
+    "title": "Comedy Book",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "399",
+    "category": "Books",
+    "imageUrl": "https://th.bing.com/th/id/OIP.3Hh1AzTrfYZkDjI2uKJ1oQHaLG?pid=ImgDet&rs=1"
+  },
+  {
+    "id": "26",
+    "title": "Car Cover",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "2999",
+    "category": "Car",
+    "imageUrl": "https://m.media-amazon.com/images/I/41WffTqsdbL.jpg"
+  },
+  {
+    "id": "27",
+    "title": "Seat Cover",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "4999",
+    "category": "Car",
+    "imageUrl": "https://th.bing.com/th/id/OIP.OaXlla9g0XnZI71u_F1DjAHaFx?pid=ImgDet&rs=1"
+  },
+  {
+    "id": "28",
+    "title": "Car Freshner",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc mattis enim ut tellus elementum sagittis vitae et.",
+    "price": "300",
+    "category": "Car",
+    "imageUrl": "https://i5.walmartimages.com/asr/605b7bcc-6435-41c5-ac4c-699156d3a770_1.6eb627c0002d4271e59426f135202fde.jpeg"
+  }
+]

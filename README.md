@@ -1,3 +1,11 @@
+# online-mart
+
+1. Download the file to your pc.
+2. Open in vs-code.
+3. cd to the folder (in this case mart-websote).
+4. "npm install" to download necesarry modules.
+5. run the Program.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
