@@ -146,7 +146,7 @@ footer {
 
 @media (max-width: 350px) {
   .nav {
-    height: 7vh;
+    height: 10vh;
     width: 100%;
     padding: 0px 5px;
     display: flex;
