@@ -2,9 +2,12 @@ function Pagination({ pages, currentPage, paginate }) {
   return (
     <ul className="pagination">
       {Array.from({ length: pages }).map((_, index) => (
-        <li key={index} onClick={() => paginate(index + 1)}>
+        <button key={index} onClick={() => paginate(index + 1)}>
           {index + 1}
-        </li>
+        </button>
+        // <li key={index} onClick={() => paginate(index + 1)}>
+        //   {index + 1}
+        // </li>
       ))}
     </ul>
   );
