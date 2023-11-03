@@ -21,7 +21,7 @@ input {
   padding: 15px 40px;
   border-radius: 50px;
 }
-button {
+.nav button {
   padding: 20px 30px;
   border-radius: 20px;
   margin: 10px;
@@ -75,15 +75,21 @@ button:hover {
   font-weight: 900;
 }
 
-ul {
-  list-style: none;
-}
 .pagination {
   display: flex;
   justify-content: center;
   gap: 30px;
   margin-top: 30px;
   padding-bottom: 30px;
+}
+.pagination button {
+  padding: 2px;
+  background-color: white;
+  color: black;
+  border-radius: 0px;
+}
+.pagination button:hover {
+  background-color: yellowgreen;
 }
 footer {
   width: 100%;
@@ -112,7 +118,7 @@ footer {
     margin-right: 14px;
     padding: 5px 5px;
   }
-  button {
+  .nav button {
     padding: 2px 2px;
     margin: 2px;
     font-size: 10px;
@@ -166,7 +172,7 @@ footer {
     margin-right: 8px;
     padding: 4px 0px;
   }
-  button {
+  .nav button {
     padding: 1px 1px;
     margin: 1px;
     font-size: 10px;
