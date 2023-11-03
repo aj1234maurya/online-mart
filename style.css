@@ -100,6 +100,56 @@ footer {
   background-color: aqua;
 }
 
+@media (min-width: 701px) {
+  .nav {
+    height: 12vh;
+    width: 100%;
+    padding: 10px;
+    background-color: aqua;
+    color: initial;
+  }
+
+  .nav h1 {
+    font-size: initial;
+  }
+
+  input {
+    margin-left: 0;
+    margin-right: 0;
+    padding: 15px 40px;
+  }
+
+  .nav button {
+    padding: 20px 30px;
+    margin: 10px;
+    font-size: initial;
+    background-color: initial;
+    color: initial;
+    border: initial;
+  }
+
+  .product-list {
+    margin: 0;
+    gap: 30px;
+  }
+
+  .product {
+    width: 300px;
+    height: 70vh;
+  }
+
+  .image-size {
+    width: 295px;
+    height: 250px;
+  }
+
+  footer {
+    font-size: initial;
+    height: 8vh;
+    background-color: aqua;
+  }
+}
+
 @media (min-width: 350px) and (max-width: 700px) {
   .nav {
     height: 10vh;
